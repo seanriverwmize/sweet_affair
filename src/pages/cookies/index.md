@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Cookies
+title: Cookies & Brownies
 image: /img/lots_of_cookies.jpeg
 heading: Great fucking cookies
 description: >-
@@ -68,7 +68,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/sa_cookie_one.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
