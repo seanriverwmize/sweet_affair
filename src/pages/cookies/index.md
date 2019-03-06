@@ -1,8 +1,7 @@
 ---
-templateKey: 'product-page'
-path: /cookies
+templateKey: product-page
 title: Cookies
-image: /img/jumbotron.jpg
+image: /img/lots_of_cookies.jpeg
 heading: Great fucking cookies
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
