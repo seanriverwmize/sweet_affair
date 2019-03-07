@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 path: /soups_salads
-title: Our Coffee
+title: Soups and Salads
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-

@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Baked Goods
+title: Cookies & Brownies
 image: /img/lots_of_cookies.jpeg
 heading: Great fucking cookies
 description: >-
